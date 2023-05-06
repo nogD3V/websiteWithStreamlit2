@@ -1,0 +1,34 @@
+footer{
+    visibility: hidden;
+}
+
+#MainMenu{
+    visibility: hidden;
+}
+
+h1{
+    font-weight: 500;
+    font-size:2rem;
+    color: pink;
+}
+
+h3{
+    font-size:1.75rem;
+    color: aqua;
+}
+
+div.css-k7vsyb.e16nr0p31 > h1{
+    color: white;
+}
+
+.css-nahz7x a{
+    text-decoration: none;   
+}
+
+.css-nahz7x > p{
+    font-size: 0.8rem;
+}
+
+#MainMenu{
+    visibility: hidden;
+}
