@@ -15,4 +15,4 @@ Language:
 
 
 **Footnote**[^1].
-[^1]: References: Me
+[^1]: References: Me (documentation)
